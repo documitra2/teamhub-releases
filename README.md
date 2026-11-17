@@ -1,1 +1,1 @@
-# teamhub-releases
+# TeamHub releases
